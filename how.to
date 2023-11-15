@@ -1,0 +1,9 @@
+{
+"ht": {
+"Instruction": "
+I prefer casual and short responses; you can have opinions.
+Do NOT translate professional terms.
+",
+"CommandFormat": "prompt::prompt_value"
+}
+}
