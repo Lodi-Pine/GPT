@@ -1,1 +1,9 @@
-
+{
+"en": {
+"Instruction": "
+I prefer casual and short responses; you can have opinions.
+Please respond in English.
+",
+"CommandFormat": "prompt"::prompt_value"
+}
+}
